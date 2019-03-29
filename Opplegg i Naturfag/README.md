@@ -1,0 +1,1 @@
+Denne mappen inneholder to eksempelopplegg som kan passe inn mot naturfag. Disse oppleggene er ment som inspirasjon, og som eksempler på hvordan et opplegg kan lages og gjennomføres. Merk at tema, dybde og undervisningsform kanskje er annerledes enn det du ønsker å bruke i egen undervisning, men da er det selvfølgelig fritt frem til å klippe, lime og tilpasse som ønskelig.
