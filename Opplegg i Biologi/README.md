@@ -1,0 +1,7 @@
+Denne mappen inneholder to opplegg som kan passe inn i biologi eller naturfagstimen.
+
+Det første opplegget handler om membranpotensialet og akjsonspotensialet. Vi utvikler en velidg enkel modell av hvordan et aksjonspotensiale i en nervecelle kan oppstå på grunn av ionetransport over membranen. Vi sammenligner denne med Hodgkin-Huxley modellen som var den første modellen som beskrev hvordan aksjonspotensialer oppstod og vant nobelprisen i medisin i 1952. Mer at filen "hodgkin_huxley.py" hører til notebooken, og er ikke ment å leses direkte.
+
+Det andre opplegget handler om DNA, og vi går igjennom stegene for hvordan DNA oversettes til RNA og videre til et en rekke aminosyrer, altså et polypetid eller protein. Dette er en fin måte å kombinere viktige elementer av biologien med litt programmering, og gir oss innsyn i hvordan bioinformatikk fungerer, et av de viktigste og mest moderne feltene innen moderne biologi. Som et case bruker vi verktøyene vi lager til å se på en form for monogenisk diabetes som ble funnet i en norsk database for barnediabetes. Filen forskninsartikkel_diabetes.pdf legger vi bare med som kilde, dette er en naturvitenskapelig forskningsartikkel fra medisin/bioinformatikk, og vil derfor ikke være leselig for lekfolk. Den er mest ment for å vise frem hvordan en forskningsartikkel ser ut for de som er nysgjerrige.
+
+Mappen 'pdf' inneholder de samme materialene som .pdf-filer, om du ikke ønsker å jobbe med dem i Jupyter.
