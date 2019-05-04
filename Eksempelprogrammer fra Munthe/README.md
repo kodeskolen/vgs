@@ -1,0 +1,1 @@
+Disse eksempelprogrammene er hentet fra foredraget som ble holdt siste dag og er skrevet av Morten Munthe.
